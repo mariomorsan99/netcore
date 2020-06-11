@@ -1,0 +1,12 @@
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\bin\Debug\netstandard2.0\Dominio.dll
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Master Asp.Net Core\ProyectoCore\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb

@@ -1,0 +1,14 @@
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.deps.json
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.dll
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.pdb
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Dominio.dll
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csprojAssemblyReference.cache
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfo.cs
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csproj.CopyComplete
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.dll
+C:\Master Asp.Net Core\ProyectoCore\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.pdb

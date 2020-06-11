@@ -1,0 +1,9 @@
+C:\Master Asp.Net Core\ProyectoCore\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Master Asp.Net Core\ProyectoCore\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Master Asp.Net Core\ProyectoCore\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Master Asp.Net Core\ProyectoCore\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Master Asp.Net Core\ProyectoCore\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Master Asp.Net Core\ProyectoCore\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Master Asp.Net Core\ProyectoCore\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Master Asp.Net Core\ProyectoCore\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Master Asp.Net Core\ProyectoCore\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
